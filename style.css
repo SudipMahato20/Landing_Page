@@ -59,7 +59,7 @@ nav a {
     cursor: pointer;
 }
 
-/* About section styles */
+ 
 #about {
     background-color: #1BBC9B;
     color: white;
@@ -67,7 +67,7 @@ nav a {
     padding: 100px 0;
 }
 
-/* Features section styles */
+ 
 #features {
     background-color: #3498DB;
     color: white;
@@ -79,7 +79,7 @@ nav a {
     margin-bottom: 40px;
 }
 
-/* Contact section styles */
+ 
 #contact {
     background-color: #E74C3C;
     color: white;
@@ -87,7 +87,7 @@ nav a {
     padding: 100px 0;
 }
 
-/* Footer styles */
+ 
 footer {
     background-color: #333;
     color: white;
